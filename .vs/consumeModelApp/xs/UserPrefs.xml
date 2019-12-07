@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{422FA8AC-1CC9-4BC4-BAF0-A65E30070ECA}|Default">
+  <MonoDevelop.Ide.ItemProperties.consumeModelApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wikipedia-detox-250-line-data.tsv">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="wikipedia-detox-250-line-data.tsv" Line="251" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="consumeModelApp" expanded="True">
+            <Node name="consumeModelApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="wikipedia-detox-250-line-data.tsv" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

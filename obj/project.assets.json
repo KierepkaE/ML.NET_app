@@ -20,7 +20,7 @@
       "outputPath": "/Users/nesebor/Desktop/ML.NET/consumeModelApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nesebor/.nuget/NuGet/NuGet.Config"
+        "/Users/nesebor/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

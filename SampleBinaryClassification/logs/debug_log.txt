@@ -1,0 +1,66 @@
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
